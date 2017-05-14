@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// This is my solution to the Hackerrank LinkedIn Placement Practice Challenges.
+/// </summary>
 namespace HackerRankLinkedInChallenges
 {
     class Program
